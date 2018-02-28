@@ -17,4 +17,5 @@ setuptools>=30.2.0
 six>=1.10.0
 virtualenv>=15.0.3
 wheel>=0.30.0a0
-https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl
+https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.1-py3-none-any.whl
+
